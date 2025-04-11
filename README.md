@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lalit Gaikwad</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
-- 🌱 I’m currently learning **React, React Native**
-
-- 💬 Ask me about **DSA, problem solving**
-
+-🌱 I’m currently learning React and React Native
+-⚛️ Working on building and optimizing mobile apps using React Native
+-🛠️ Skilled at identifying and resolving crashes and bugs to ensure smooth user experience
+-💡 Passionate about problem solving and consistently improving through DSA practice
+-💬 Ask me anything about DSA, debugging, or React Native development
 - 📫 How to reach me **lalitgaikwad274@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
